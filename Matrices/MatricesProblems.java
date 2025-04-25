@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // Intro
 
-class MatricesProblems {
+public class MatricesProblems {
     public static void main(String[] args) {
         System.out.println("-----Problems on Matrices-----");
     }
@@ -122,7 +122,7 @@ class MatrixMultiplication {
 
 // 4. Write a function that computes the transpose of a 2x2 matrix:
 
-public class Transpose2x2 {
+class Transpose2x2 {
 
     static int[][] transposeMatrix(int[][] matrix) {
         int[][] transpose = new int[2][2];
