@@ -2,7 +2,7 @@ package OOPS;
 
 import java.util.Scanner;
 
-class IntroOnOops {
+public class ProblemsInOops {
     public static void main(String[] args) {
         System.out.println("-----Introduction to OOPS-----");
     }
