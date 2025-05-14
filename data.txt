@@ -1,0 +1,4 @@
+Welcome to File Handling!
+This is a sample text file.
+Enjoy coding!
+Welcome to Java
